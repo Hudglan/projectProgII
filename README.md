@@ -18,7 +18,7 @@ Este repositório contém a implementação do **Projeto Final da disciplina de 
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas Utilizadas
+## Tecnologias e Ferramentas Utilizadas
 * **Linguagem:** Java (JDK 8 ou superior)
 * **Paradigma:** Programação Orientada a Objetos (POO)
 * **Controle de Versão:** Git & GitHub
