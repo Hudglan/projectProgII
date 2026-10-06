@@ -1,10 +1,20 @@
-# 🚀 Projeto Final de Programação II (ProjetoFinalProgII)
+# Projeto Final de Programação II (ProjetoFinalProgII)
 
 [![Java](https://img.shields.io/badge/Language-Java-orange.svg)](https://www.java.com/)
 [![Status](https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen.svg)]()
 
-## 📌 Sobre o Projeto
+## Sobre o Projeto
 Este repositório contém a implementação do **Projeto Final da disciplina de Programação II**. O objetivo principal do projeto é aplicar na prática os conceitos fundamentais da **Programação Orientada a Objetos (POO)** e técnicas de estruturação de código em **Java**, criando uma aplicação robusta, organizada e escalável.
+
+---
+## Funcionalidades Principais
+- **Cadastro e Gerenciamento**: Permite cadastrar, listar e manipular as entidades do sistema.
+
+- **Validação de Dados**: Verificação das entradas do usuário para evitar inconsistências.
+
+- **Listagem / Relatórios**: Exibição organizada dos dados processados pela aplicação.
+
+- **Menu Interativo (Console/Interface)**: Navegação fluida para acionar os recursos disponíveis.
 
 ---
 
@@ -16,7 +26,7 @@ Este repositório contém a implementação do **Projeto Final da disciplina de 
 
 ---
 
-## 🎯 Conceitos de Programação Aplicados
+##  Conceitos de Programação Aplicados
 Durante o desenvolvimento do código presente na pasta `src/`, foram explorados os seguintes pilares de desenvolvimento:
 
 1. **Abstração e Encapsulamento:** Utilização de classes de domínio com atributos privados, métodos seletores (`getters`) e modificadores (`setters`) para proteção de dados.
@@ -27,7 +37,7 @@ Durante o desenvolvimento do código presente na pasta `src/`, foram explorados 
 
 ---
 
-## 📂 Estrutura de Pastas (`src/`)
+##  Estrutura de Pastas (`src/`)
 
 ```text
 src/
