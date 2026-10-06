@@ -31,6 +31,6 @@ Durante o desenvolvimento do código presente na pasta `src/`, foram explorados 
 
 ```text
 src/
- ├── [NomeDoPacote/OuModelo]   # Classes de modelo / entidades do sistema (ex: Pessoa, Produto, etc.)
- ├── [NomeDoPacote/OuServico]  # Classes com regras de negócio ou gerenciadores de dados
+ ├── [Imovel, Pessoa]   # Classes de modelo / entidades do sistema 
+ ├── [Transacao]    # Classes com regras de negócio ou gerenciadores de dados
  └── Main.java                 # Classe principal contendo o método main() e execução do sistema
